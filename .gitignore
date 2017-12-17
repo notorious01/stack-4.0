@@ -1,3 +1,6 @@
-_builds
 .DS_Store
+
+tags
 *.swp
+
+build/
